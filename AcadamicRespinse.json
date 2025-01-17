@@ -1,0 +1,44 @@
+[
+    {
+        "id": "e6d308d2-9b10-4545-b59a-d1195c6e734a",
+        "name": "Freshers day",
+        "academic_year_name": "College [2024-2025]",
+        "start_date": "2025-01-10T00:00:00.000Z",
+        "end_date": "2025-01-10T00:00:00.000Z",
+        "description": "Freshers day",
+        "academic_year_id": "79a44c5f-e83f-40c7-96c8-82ed614a99d7",
+        "is_active": true,
+        "created_by": "Bhavana P",
+        "updated_by": "Bhavana P",
+        "created_on": "2025-01-15T07:38:57.000Z",
+        "updated_on": "2025-01-15T07:38:57.000Z"
+    },
+    {
+        "id": "0a506bd2-2486-4930-bca5-4198695126d5",
+        "name": "Sankranti",
+        "academic_year_name": "School [2024-2025]",
+        "start_date": "2025-01-11T00:00:00.000Z",
+        "end_date": "2025-01-15T00:00:00.000Z",
+        "description": "Sankranti Holidays",
+        "academic_year_id": "c0354918-ff7b-479e-b443-030db27e001f",
+        "is_active": true,
+        "created_by": "Bhavana P",
+        "updated_by": "Bhavana P",
+        "created_on": "2025-01-15T07:38:10.000Z",
+        "updated_on": "2025-01-15T07:38:10.000Z"
+    },
+    {
+        "id": "1bd8d322-bf6e-4772-a775-4e20d3d79a79",
+        "name": "Dasara",
+        "academic_year_name": "School [2024-2025]",
+        "start_date": "2025-10-10T00:00:00.000Z",
+        "end_date": "2025-10-30T00:00:00.000Z",
+        "description": "Dasara holidays",
+        "academic_year_id": "c0354918-ff7b-479e-b443-030db27e001f",
+        "is_active": true,
+        "created_by": "Bhavana P",
+        "updated_by": "Bhavana P",
+        "created_on": "2025-01-15T07:37:31.000Z",
+        "updated_on": "2025-01-15T07:37:31.000Z"
+    }
+]
